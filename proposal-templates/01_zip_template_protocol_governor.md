@@ -7,6 +7,7 @@
 | **Proposal Type** | ZIP  |
 | **One Sentence Summary:** | 1-sentence summary description |
 | **Proposal Author** | Forum handle and/or Twitter handle of entity or individual. If entity, please also provide handles for an individual best placed to respond to feedback and comments. |
+| **Proposal Sponsor:** | Delegate sponsoring proposal if applicable |
 | **Date Created:** | Date submitted onchain [DATE IN YYYY-MM-DD FORMAT] |
 | **Version** | Current version of proposal, add link to previous version(s) if applicable` |
 | **Summary of Action** | Summary of technical specification |
