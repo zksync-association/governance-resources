@@ -16,7 +16,7 @@
 # **TITLE: [ZIP #] Proposal Title**
 
 Follow this template for new ZKsync Improvement proposals, removing this text and replacing the title with your proposal's own. Proposals can be submitted via Tally or other governance applications supporting ZKsync governance.
-> ℹ️ Please check the last ZIP on Tally to assign the appropriate number to your proposal.
+> ℹ️ Please do not add a number to the proposal until it is posted onchain. Check the last ZIP on Tally to assign the appropriate number to your proposal.
 
 ## **Simple Summary**
 
