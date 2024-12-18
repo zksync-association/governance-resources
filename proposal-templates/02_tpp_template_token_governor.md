@@ -13,7 +13,7 @@
 | Summary of Action | Description of token mechanic and link to code repository, incl. summary of amount request |
 | Link to contracts | Link to relevant repos if applicable |
 
-# **TITLE: [TIP #] Proposal Title**
+# **TITLE: [TPP #] Proposal Title**
 
 Follow this template for new Token Program proposals, removing this text and replacing the title with your proposal's own. Proposals can be submitted via Tally or other governance applications supporting ZKsync governance.
 
