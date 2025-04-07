@@ -11,6 +11,7 @@
 | **Date Created:** | Date submitted onchain [DATE IN YYYY-MM-DD FORMAT] |
 | **Version** | Current version of proposal, add link to previous version(s) if applicable` |
 | **Summary of Action** | Summary of the proposed action (e.g. ratification, election, other connected onchain action) |
+| **Link to forum draft** | Link to proposal draft on forum.zknation.io |
 | **Link to contracts** | Link to relevant repos if applicable |
 
 # **TITLE: [GAP #] Proposal Title**
