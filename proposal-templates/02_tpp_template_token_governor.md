@@ -5,14 +5,14 @@
 | Title | Proposal Title |
 | --- | --- |
 | **Proposal Type** | TPP  |
-| One Sentence Summary | 1-sentence summary description |
-| Proposal Author | Forum handle and/or Twitter handle of entity or individual. If entity, please also provide handles for an individual best placed to respond to feedback and comments.
-| Proposal Sponsor | Delegate sponsoring proposal if applicable |
-| Submitted onchain | Date of proposal creation [DATE IN YYYY-MM-DD FORMAT] |
-| Version | Version of proposal, and link to previous if applicable |
-| Summary of Action | Description of token mechanic and link to code repository, incl. summary of amount request |
-| Link to forum post | Link to proposal draft on forum.zknation.io |
-| Link to contracts | Link to relevant repos if applicable |
+| **One Sentence Summary** | 1-sentence summary description |
+| **Proposal Author** | Forum handle and/or Twitter handle of entity or individual. If entity, please also provide handles for an individual best placed to respond to feedback and comments.
+| **Proposal Sponsor** | Delegate sponsoring proposal if applicable |
+| **Submitted onchain** | Date of proposal creation [DATE IN YYYY-MM-DD FORMAT] |
+| **Version** | Version of proposal, and link to previous if applicable |
+| **Summary of Action** | Description of token mechanic and link to code repository, incl. summary of amount request |
+| **Link to forum post** | Link to proposal draft on forum.zknation.io |
+| **Link to contracts** | Link to relevant repos if applicable |
 
 # **TITLE: [TPP #] Proposal Title**
 
