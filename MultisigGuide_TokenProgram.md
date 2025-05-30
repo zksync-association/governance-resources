@@ -48,7 +48,7 @@ In addition, each multisig must follow industry standard best-practices, such as
 - Keys are not used for any unrelated on-chain activity.
 - Lost or compromised devices are reported immediately, and affected keys replaced.
 - Passive signers, such as a backup signer, do not meet the threshold on any multisig.
-- For high-risk multisigs:
+- For high-risk multisigs, here are some additional measures to consider:
     - The threshold of signers is never present in a single physical location (e.g., conference, retreat)
     - Signers must define internal verification method for transactions >1M ZK, such as video call, secret pass phrase, and/or verification through two independent communication channels.
 
