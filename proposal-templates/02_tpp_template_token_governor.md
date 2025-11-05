@@ -10,7 +10,7 @@
 | **Proposal Sponsor** | Delegate sponsoring proposal if applicable |
 | **Submitted onchain** | Date of proposal creation [DATE IN YYYY-MM-DD FORMAT] |
 | **Version** | Version of proposal, and link to previous if applicable |
-| **Call Data Summary** | Description of calldata that will be executed if passed (e.g. Grant minter role to X on Y Capped Minter)|
+| **Calldata Summary** | Description of calldata that will be executed if passed (e.g. Grant minter role to X on Y Capped Minter)|
 | **Link to forum post** | Link to proposal draft on forum.zknation.io |
 | **Link to contracts** | Link to relevant repos if applicable |
 
