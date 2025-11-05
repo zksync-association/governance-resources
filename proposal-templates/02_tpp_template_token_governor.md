@@ -10,7 +10,7 @@
 | **Proposal Sponsor** | Delegate sponsoring proposal if applicable |
 | **Submitted onchain** | Date of proposal creation [DATE IN YYYY-MM-DD FORMAT] |
 | **Version** | Version of proposal, and link to previous if applicable |
-| **Summary of Action** | Description of token mechanic and link to code repository, incl. summary of amount request |
+| **Call Data Summary** | Description of calldata that will be executed if passed (e.g. Grant minter role to X on Y Capped Minter)|
 | **Link to forum post** | Link to proposal draft on forum.zknation.io |
 | **Link to contracts** | Link to relevant repos if applicable |
 
@@ -47,9 +47,11 @@ This section should include a description of the program’s technical design. T
 - How does the ZK Token contribute to the realization of the Token Program?
 - What evidence exists to support the expected outcomes of the Token Program?
 - What is the token model of the Token Program? (Amount of tokens needed, stream design)
-- What onchain actions will the Token Program require or execute?
 - If applicable, how does the Token Program build on current programs and token mechanics?
 - If applicable, how can others contribute to the Token Program’s outcomes permissionlessly?
+
+**Summary of Calldata:**
+- Summarize all onchain actions that will be executed if the proposal is approved. (e.g. Grant minter role to X on Y Capped Minter contract)
 
 > ℹ️ The mechanic should include all allocations within the Token Program, including any retroactive funding for the development of the program’s smart-contracts (i.e., mechanic usage fees).
 
